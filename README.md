@@ -1,3 +1,3 @@
 # Rock-Paper-Scissors
 
-Coded with this Tutorial https://www.youtube.com/watch?v=jaVNP3nIAv0
+Coded with this Tutorial https://youtu.be/jaVNP3nIAv0
